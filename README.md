@@ -7,7 +7,7 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
 
-My name is Amy, I go by she/her prounouns and I'm from LA but I was born in Vietnam. My hobbies are drawing, collecting Sonny Angels, and reading lots of manga in my free time. I enjoy playing games like Minecaft but lately I've been playing a game called Identity V, which is a mobile game. I'm taking this class since it is a reqiured GDIM major class. I do not have any prior expreience with game devlopment or coding. I'm not sure what games I'm hoping to bulid but I hope its a super fun one.
+My name is Amy, I go by she/her prounouns and I'm from LA but I was born in Vietnam. My hobbies are drawing, collecting Sonny Angels, and reading lots of manga in my free time. I enjoy playing games like Minecaft but lately I've been playing a game called Identity V, which is a mobile game. I'm taking this class since it is a reqiured GDIM major class. I do not have any prior expreience with game devlopment or coding. I'm not sure what games I'm hoping to build but I hope its a super fun one.
 
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
